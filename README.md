@@ -1,4 +1,4 @@
-# CandidatesManager
+# CandidateManager
 A candidate management software containing your personal data and professional experiences.
 
 Created for Back-End practice using C# and HTML languages, MVC architecture, .NET 6.0, Code-First approach with Entity Framework Core as ORM for queries and data persistence and SQL Server.
